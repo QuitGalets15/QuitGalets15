@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Saludos, mi nombre es Alejandro Granados y actualmente estoy realizando mi formación en el SENA en el área de Programación de Software. Me apasiona el mundo de la programación y estoy completamente comprometido con mi crecimiento profesional. Mi objetivo es convertirme en un desarrollador full stack, por lo que estoy constantemente buscando nuevas oportunidades de aprendizaje y desarrollo.
 <!--
 **QuitGalets15/QuitGalets15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
